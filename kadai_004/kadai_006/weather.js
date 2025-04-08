@@ -1,3 +1,3 @@
-$("#target").hover(function(){
+$(function(){
   $("#target").addClass("heading");
 });
